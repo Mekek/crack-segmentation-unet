@@ -1,0 +1,8 @@
+torch>=2.2,<3
+torchvision>=0.17,<1
+opencv-python-headless>=4.9,<5
+scikit-learn>=1.4,<2
+tqdm>=4.66,<5
+Pillow>=10,<13
+matplotlib>=3.8,<4
+jupyterlab>=4,<5
